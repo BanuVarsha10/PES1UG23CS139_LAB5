@@ -1,0 +1,14 @@
+2025-10-29 23:02:02,549 - INFO - 2025-10-29 23:02:02.549829: Added 10 of apple to inventory list successfully
+2025-10-29 23:02:02,549 - INFO - 2025-10-29 23:02:02.549829: Added 3 of banana to inventory list successfully
+2025-10-29 23:02:02,565 - WARNING - Attempted to remove non-existent item: orange
+2025-10-29 23:02:02,565 - INFO - Checked for low stock items below threshold 5.
+2025-10-29 23:02:02,565 - INFO - Inventory data saved successfully.
+2025-10-29 23:02:02,565 - INFO - Inventory data loaded successfully.
+2025-10-29 23:02:02,565 - INFO - Inventory report printed.
+2025-10-29 23:04:45,110 - INFO - 2025-10-29 23:04:45.110564: Added 10 of apple to inventory list successfully
+2025-10-29 23:04:45,110 - INFO - 2025-10-29 23:04:45.110564: Added 3 of banana to inventory list successfully
+2025-10-29 23:04:45,110 - WARNING - Invalid item or quantity type provided: item=123 qty='ten'
+2025-10-29 23:04:45,110 - WARNING - Attempted to remove non-existent item: orange
+2025-10-29 23:04:45,110 - INFO - check_low_items: items below 5 checked
+2025-10-29 23:04:45,110 - INFO - save_data: inventory data saved to 'inventory.json'
+2025-10-29 23:04:45,110 - INFO - print_data: inventory report printed.
